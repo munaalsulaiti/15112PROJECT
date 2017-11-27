@@ -1,0 +1,41 @@
+Brand		Product		nutrientsChart			Barcode			image
+aseel		water			CH1.JPEG		6253009700035		I1.JPEG
+qarmoosh        sweet&chilichips                                9501100014283
+almaha		jiveberry		A19.JPEG
+almaha		jiveorange		A20.JPEG
+almaha		jivemango		A21.JPEG					AI30.JPEG
+almaha		jivemixedfruit		A22.JPEG
+almaha		jivelemon&ment		A23.JPEG
+almaha		jivekiwi,lemon&ment	A24.JPEG
+almaha		jiveorange&carrot	A25.JPEG
+almaha		jivepomegranate		A26.JPEG
+almaha		jiveguava		A27.JPEG
+almaha		datesmilk		A18.JPEG
+almaha		passionfruitmilk	A18.JPEG
+almaha		bananamilk		A18.JPEG
+almaha		melonmilk		A18.JPEG
+almaha		chocolatemilk		A18.JPEG
+almaha		strawberrymilk		A18.JPEG
+almaha		mangomilk		A18.JPEG
+almaha		mangoyogurtdrink	A17.JPEG
+almaha		melonyogurtdrink	A17.JPEG
+almaha		mintoyogurtdrink	A17.JPEG
+almaha		strawberryyogurtdrink	A17.JPEG
+almaha		mangofruityogurt	A14.JPEG
+almaha		strawberryfruityogurt	A15.JPEG
+almaha		blueberryfruityogurt	A16.JPEG
+almaha		stirredfullfatyogurt	A12.JPEG
+almaha		stirredlowfatyogurt	A13.JPEG
+almaha		freshfullfatyogurt	A12.JPEG
+almaha		freshlowfatyogurt	A10.JPEG
+almaha		freshskimmedyogurt	A11.JPEG
+almaha		labanayran		A6.JPEG
+almaha		fullfatlaban		A4.JPEG
+almaha		skimmedlaban		A5.JPEG
+almaha		lowfatlaban		A7.JPEG
+almaha		lowfatmilk		A7.JPEG
+almaha		fullfatmilk		A11.JPEG
+almaha		jeeralabandrink		A8.JPEG
+rayan           water						2000000335032		ry1.jpeg
+
+	
